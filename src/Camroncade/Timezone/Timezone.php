@@ -13,7 +13,6 @@ class Timezone {
 	    '(UTC-08:00) Tijuana' => 'America/Tijuana',
 	    '(UTC-07:00) Arizona' => 'US/Arizona',
 	    '(UTC-07:00) Chihuahua' => 'America/Chihuahua',
-	    '(UTC-07:00) La Paz' => 'America/Chihuahua',
 	    '(UTC-07:00) Mazatlan' => 'America/Mazatlan',
 	    '(UTC-07:00) Mountain Time (US &amp; Canada)' => 'US/Mountain',
 	    '(UTC-06:00) Central America' => 'America/Managua',
